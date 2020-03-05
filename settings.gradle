@@ -1,0 +1,2 @@
+rootProject.name='AppDAC'
+include ':app'
